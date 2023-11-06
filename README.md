@@ -1,4 +1,5 @@
 # Note taking app (Tejas Chaudhari)
+# A note-taking app where users can create, edit, and delete notes. User can also search for a specific note quickly.
 
 ## Project Setup
 
