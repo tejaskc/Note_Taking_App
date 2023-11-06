@@ -1,2 +1,19 @@
-# Note_Taking_App
-A note-taking app where users can create, edit and delete notes.
+# Note taking app (Tejas Chaudhari)
+
+## Project Setup
+
+```sh
+npm install
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+npm run dev
+```
+
+### Type-Check, Compile and Minify for Production
+
+```sh
+npm run build
+```
